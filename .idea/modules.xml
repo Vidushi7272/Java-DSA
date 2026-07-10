@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DSA-JAVA.iml" filepath="$PROJECT_DIR$/DSA-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/divideAndConquer/divideAndConquer.iml" filepath="$PROJECT_DIR$/divideAndConquer/divideAndConquer.iml" />
     </modules>
   </component>
